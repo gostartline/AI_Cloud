@@ -1,5 +1,3 @@
-READMEとしては、**「Dell応募対策の勉強」ではなく、STARTLINEの実証済みAI Infrastructure構築記録**として書くのが良いです。職務経歴書から参照されても違和感がない表現にします。
-
 # STARTLINE GPU Cloud AI Infrastructure
 
 ## Overview
