@@ -216,7 +216,7 @@ GPU Cloud remains **Designed / Hardware Validation Pending**. The design scope c
 ## Published repository layout
 
 ```text
-AIF/
+AI_Cloud/
 ├─ README.md
 ├─ README_JA.md
 ├─ CPU_Cloud/
