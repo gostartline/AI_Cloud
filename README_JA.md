@@ -216,7 +216,7 @@ GPU Cloudは引き続き **Designed / Hardware Validation Pending** です。設
 ## 公開リポジトリ構成
 
 ```text
-AIF/
+AI_Cloud/
 ├─ README.md
 ├─ README_JA.md
 ├─ CPU_Cloud/
