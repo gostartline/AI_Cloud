@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: __LLM_NAMESPACE__
+  labels:
+    app.kubernetes.io/part-of: startline-cpu-cloud
+    app.kubernetes.io/component: llm

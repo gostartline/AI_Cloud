@@ -1,0 +1,14 @@
+d76201f47a5bf5276e5300147ee0fcec14c261bfb2cf2e3b4170bd054686f513  ./cpu-cloud/kubernetes/validation.md
+510ad18801c1ada2932e805ac52d7989a47b95079116314ff7a8bb5a46e8f903  ./cpu-cloud/llm/inference-summary.json
+f96e52e3addd0a23dd867bb428be49b186411efde369bfc545f8176817f1e10f  ./cpu-cloud/llm/validation.md
+f9e3d31338f4739740ee709135003d8566014fc65ab73a05f6a8e2417bf2820e  ./cpu-cloud/monitoring/validation.md
+e7142eabb8353e489ac5e7105909835bf51d2494381b77da7655390f609700f3  ./cpu-cloud/overview/actual-results.md
+3e26861b7f77e31aa412dbe89b168a9d477484a4cf39b6068aae5d0443cd2097  ./cpu-cloud/overview/architecture.md
+39219c61fa7703b668a584a0384c66f94074405791b3ee2e93917950db27dcde  ./cpu-cloud/overview/deployment-flow.md
+53e4c0dc350013511ee34a932ef06eb4a7cdb73e59777ddf12ab5b40c9e72700  ./cpu-cloud/overview/environment.md
+4611539d15982fc4397cc8f6ee2e61dd1b37b1aa283f045813e1567868557423  ./cpu-cloud/overview/technical-findings.md
+03c42f272d83b1938b2f2e0590fb9e04200190998c3d01b8e44e77a81f872a04  ./cpu-cloud/overview/validation-status.md
+5ad8cdd81d607b5852f02f1c58e5c8fc2126a10b023cfbb5c4d21ded32dbfec3  ./cpu-cloud/validation/result.json
+45deb457582df39e1abc251f2b4e3abc9189eb8a6b9104f282a67da68e70959f  ./cpu-cloud/validation/run-metadata.json
+1bcafe8d2956a74cadec59f6637d437555c5ef2d84cadd74e18401c74a0d9c41  ./cpu-cloud/windows-client/validation.md
+eb8b62a9cb11b564ca9114e282f262af397440370eb85142239028928046f3ca  ./README.md

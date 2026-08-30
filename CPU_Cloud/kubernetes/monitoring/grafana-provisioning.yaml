@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: grafana-provisioning
+  namespace: __PROMETHEUS_NAMESPACE__
+  labels:
+    app.kubernetes.io/name: grafana
+    app.kubernetes.io/part-of: startline-cpu-cloud
+data:
+  datasources.yaml: |
+    apiVersion: 1
+    datasources:
+      - name: Prometheus
+        uid: startline-prometheus
+        type: prometheus
+        access: proxy
+        url: http://prometheus.__PROMETHEUS_NAMESPACE__.svc.cluster.local:9090
+        isDefault: true
+        editable: false

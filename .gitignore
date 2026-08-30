@@ -1,0 +1,13 @@
+# Staging guard: raw or environment-specific material must not enter this package.
+**/internal/
+**/private/
+**/*.log
+**/*.zip
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+**/*.token
+**/*.secret
+**/.env
+**/config.env

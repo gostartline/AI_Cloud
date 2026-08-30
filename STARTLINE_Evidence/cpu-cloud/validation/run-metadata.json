@@ -1,0 +1,10 @@
+{
+  "run_id": "20260830T090429Z",
+  "started_at_utc": "2026-08-30T09:04:29Z",
+  "completed_at_utc": "2026-08-30T09:04:30Z",
+  "capture_commit": "1b2b791bc1c8ec553a0eff05980622a60a7b4bab",
+  "configuration_version": "cpu-prevalidation-v1.2",
+  "validation_phase": "CPU_NON_GPU_PREVALIDATION",
+  "host_identity": "[REDACTED]",
+  "environment_identity": "[REDACTED]"
+}

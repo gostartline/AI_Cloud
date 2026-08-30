@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "scope": "CPU-only prevalidation",
+  "protocol": "OpenAI-compatible chat completion",
+  "model_family": "Gemma 4 E2B",
+  "runtime": "llama.cpp server",
+  "finish_reason": "stop",
+  "assistant_content": "CPU prevalidation PASS.",
+  "usage": {
+    "prompt_tokens": 25,
+    "completion_tokens": 89,
+    "total_tokens": 114
+  },
+  "timings": {
+    "predicted_tokens_per_second": 8.785203959491424
+  },
+  "raw_response_fields_omitted": [
+    "host-specific model path",
+    "request identifier",
+    "system fingerprint",
+    "reasoning_content"
+  ]
+}

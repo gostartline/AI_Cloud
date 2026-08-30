@@ -1,0 +1,8 @@
+config.env
+*.runtime
+*.partial
+evidence/
+evidence-packages/
+models/
+*.log
+
